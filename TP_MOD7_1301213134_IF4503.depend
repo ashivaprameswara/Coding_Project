@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667767062 source:c:\users\hp 14s\documents\tp strukdat\tp_mod7_1301213134_if4503\asuransi_barang.cpp
+	"asuransi_barang.h"
+
+1667767062 c:\users\hp 14s\documents\tp strukdat\tp_mod7_1301213134_if4503\asuransi_barang.h
+	<iostream>
+
+1667767062 source:c:\users\hp 14s\documents\tp strukdat\tp_mod7_1301213134_if4503\main.cpp
+	"asuransi_barang.h"
+
